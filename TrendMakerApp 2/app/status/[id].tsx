@@ -1,0 +1,1 @@
+// placeholder content for app/status/[id].tsx
